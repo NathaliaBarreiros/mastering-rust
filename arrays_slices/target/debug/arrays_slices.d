@@ -1,0 +1,1 @@
+/Users/nathalia/Personal/cryptography/learning-rust/mastering-rust/arrays_slices/target/debug/arrays_slices: /Users/nathalia/Personal/cryptography/learning-rust/mastering-rust/arrays_slices/src/main.rs

@@ -1,0 +1,1 @@
+/Users/nathalia/Personal/cryptography/learning-rust/mastering-rust/literals_operators/target/debug/literals_operators: /Users/nathalia/Personal/cryptography/learning-rust/mastering-rust/literals_operators/src/main.rs
