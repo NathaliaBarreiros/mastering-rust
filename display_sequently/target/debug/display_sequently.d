@@ -1,0 +1,1 @@
+/Users/nathalia/Personal/cryptography/learning-rust/mastering-rust/display_sequently/target/debug/display_sequently: /Users/nathalia/Personal/cryptography/learning-rust/mastering-rust/display_sequently/src/main.rs
